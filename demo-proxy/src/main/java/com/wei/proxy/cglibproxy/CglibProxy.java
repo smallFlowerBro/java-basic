@@ -3,9 +3,6 @@ package com.wei.proxy.cglibproxy;
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
-import sun.rmi.transport.proxy.CGIHandler;
-
-import java.lang.invoke.MethodHandleInfo;
 import java.lang.reflect.Method;
 
 /**
