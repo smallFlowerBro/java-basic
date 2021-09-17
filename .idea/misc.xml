@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-socket/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-generics/pom.xml" />
+        <option value="$PROJECT_DIR$/rtmp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo-annotation/demo-generics/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-annotation/demo-annotation.iml" filepath="$PROJECT_DIR$/demo-annotation/demo-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-generics/demo-generics.iml" filepath="$PROJECT_DIR$/demo-generics/demo-generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-io/demo-io.iml" filepath="$PROJECT_DIR$/demo-io/demo-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-netty/demo-netty.iml" filepath="$PROJECT_DIR$/demo-netty/demo-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nio/demo-nio.iml" filepath="$PROJECT_DIR$/demo-nio/demo-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-proxy/demo-proxy.iml" filepath="$PROJECT_DIR$/demo-proxy/demo-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-reflect/demo-reflect.iml" filepath="$PROJECT_DIR$/demo-reflect/demo-reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-socket/demo-socket.iml" filepath="$PROJECT_DIR$/demo-socket/demo-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-thread/demo-thread.iml" filepath="$PROJECT_DIR$/demo-thread/demo-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rtmp/rtmp.iml" filepath="$PROJECT_DIR$/rtmp/rtmp.iml" />
+    </modules>
+  </component>
+</project>

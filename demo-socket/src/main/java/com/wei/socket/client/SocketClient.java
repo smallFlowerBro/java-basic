@@ -10,7 +10,7 @@ import java.net.Socket;
 public class SocketClient {
     public static void main(String[] args) {
         try {
-            Socket socket = new Socket("127.0.0.1", 8089);
+            Socket socket = new Socket("127.0.0.1", 8090);
             InputStream inputStream =socket.getInputStream();
             OutputStream outputStream = socket.getOutputStream();
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
